@@ -47,6 +47,7 @@ function crearEtiquetaTienda(identificadorInput, valorMin){
     return etiquetaParrafo;
 }
 
+
 function calcular(){
     let ventas = [];
     let posicionVentas = 0;
